@@ -1,6 +1,3 @@
-Here’s an updated README file that incorporates the features you've mentioned, such as stock buying/selling, searching for stocks, and the use of the `yt.finance` library along with Python requirements:
-
----
 
 # Stock Portfolio Manager
 
