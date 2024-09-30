@@ -1,8 +1,8 @@
-Stock Portfolio Manager
-Overview
+#Stock Portfolio Manager
+##Overview
 The Stock Portfolio Manager is a full-featured application that allows users to manage their stock investments. Users can view their stock portfolio, buy and sell stocks, and search for specific stocks using the yt.finance library for real-time data. This application offers a user-friendly interface built with React and a backend powered by Python.
 
-Features
+##Features
 Portfolio Management: View and manage your stock portfolio.
 Buy/Sell Stocks: Easily buy and sell stocks with real-time updates.
 Stock Search: Search for specific stocks to check availability and details.
@@ -50,15 +50,15 @@ Copy code
 npm start
 Open your browser and go to http://localhost:3000 to view the application.
 
-Usage
+##Usage
 Use the "View Portfolio" button to fetch and display your current stock holdings.
 Search for stocks by entering the stock ticker symbol.
 Use the provided options to buy or sell stocks directly from your portfolio.
-Backend Structure
+##Backend Structure
 The backend is built using Python and communicates with the frontend via RESTful API.
 The yt.finance library is utilized to fetch real-time stock data for search and portfolio management.
 Ensure your backend server is running and accessible for the frontend to function correctly.
-Future Improvements
+##Future Improvements
 Implement user authentication for secure stock trading.
 Expand error handling to cover more edge cases.
 Introduce data visualization tools for better portfolio insights.
